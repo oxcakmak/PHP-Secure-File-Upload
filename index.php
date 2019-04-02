@@ -1,4 +1,11 @@
 <?php
+/*
+Author: Osman Çakmak
+Skype: oxcakmak
+Email: oxcakmak@hotmail.com
+Website: http://oxcakmak.com/
+Country: Turkey [TR]
+*/
 $fileName = $_FILES['news_thumbnail']['name'];
 $fileSize = $_FILES['news_thumbnail']['size'];
 $fileTmpName = $_FILES['news_thumbnail']['tmp_name'];
